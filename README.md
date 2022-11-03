@@ -38,4 +38,4 @@ RUN pip install deepspeed pypdsh mpi4py pytorch-lightning rouge_score sentencepi
 RUN pip install git+https://github.com/huggingface/transformers accelerate
 ```
 
-Please feel free to reach out to the Field Data Science Team with any questions.  We appreciate your attendance at our workshop. Materials will be uploaded to a public github repository after the workshop.
+Please feel free to reach out to the Field Data Science Team with any questions.  We appreciate your attendance at our workshop. 
