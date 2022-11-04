@@ -1,4 +1,4 @@
-   A portion of the code in this repository was cloned from or derived from Microsoft's DeepSpeed Repository here: https://github.com/microsoft/DeepSpeed/
+   A portion of the code in this repository was cloned from or derived (meaning several significant changes were made) from Microsoft's DeepSpeed Repository here: https://github.com/microsoft/DeepSpeed/
    
    As requested, we are copying the licence agreement from the repository (see below).
    
