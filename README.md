@@ -1,6 +1,6 @@
 ### ODSC-West 2022 Tutorial on MPI and DeepSpeed
 
-This tutorial covers absolute beginner (MPI), intermediate (summarization and translation tasks) and advanced (a computer vision example).  We also provide supplementary materials.  We do not recommend working on any supplementary materials during the workshop as you will not have access to appropriate GPU clusters.  However you can take this code and run it on any MPI + DeepSpeed Cluster of your choice.  Below are the dockerfile instructions for running the MPI+DeepSpeed code on your own.
+This tutorial covers absolute beginner (MPI), intermediate (summarization and translation tasks) and advanced (a computer vision example).  We also provide supplementary materials.  We do not recommend working on any supplementary materials during the workshop as you will not have access to appropriate GPU clusters.  However you can take this code and run it on any MPI + DeepSpeed Cluster of your choice. Of course we hope you choose Domino!  Below are the dockerfile instructions for running the MPI+DeepSpeed code on your own.
 
 #### Dockerfile Instructions for the Workspace
 
